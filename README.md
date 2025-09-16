@@ -64,3 +64,4 @@ Any feedback on my solution is welcome! Email me: stowjess@gmail.com
 4. Add export functionality to save results to PDF or CSV files
 5. Include weekend/public holiday exclusions for more precise calculations
 6. Add support for part-time employees with pro-rata annual entitlements
+7. Add a calculation for the value of leave based on monthly / annual salary
