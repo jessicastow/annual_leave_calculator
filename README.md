@@ -11,7 +11,7 @@ When employees leave their jobs, calculating the exact amount of annual leave ow
 
 Manual calculations are prone to errors and can lead to disputes between employers and employees. Many organizations rely on spreadsheets or manual calculations, which is inefficient and can result in incorrect payments.
 
-In order to save time and ensure accuracy, I developed a [python script](Leave.rmd) that automatically calculates annual leave entitlements, tracks usage, and determines final outstanding balances with a professional summary output.
+In order to save time and ensure accuracy, I developed a [python script](annual_leave_calculator.py) that automatically calculates annual leave entitlements, tracks usage, and determines final outstanding balances with a professional summary output.
 
 ### 💡 Source
 This code was inspired by the need for accurate leave calculations during employment transitions and the desire to create a user-friendly tool that both HR professionals and individual employees can use.
